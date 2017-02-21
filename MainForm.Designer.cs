@@ -95,7 +95,6 @@
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.checkedListBoxGames = new System.Windows.Forms.CheckedListBox();
             this.groupBoxOptions = new System.Windows.Forms.GroupBox();
-            this.checkBoxRetro = new System.Windows.Forms.CheckBox();
             this.buttonShowGameGenieDatabase = new System.Windows.Forms.Button();
             this.maskedTextBoxReleaseDate = new System.Windows.Forms.MaskedTextBox();
             this.label1 = new System.Windows.Forms.Label();
@@ -119,6 +118,7 @@
             this.label5 = new System.Windows.Forms.Label();
             this.buttonAddGames = new System.Windows.Forms.Button();
             this.statusStrip = new System.Windows.Forms.StatusStrip();
+            this.toolStripProgressBar1 = new System.Windows.Forms.ToolStripProgressBar();
             this.toolStripStatusLabelSelected = new System.Windows.Forms.ToolStripStatusLabel();
             this.openFileDialogNes = new System.Windows.Forms.OpenFileDialog();
             this.contextMenuStrip = new System.Windows.Forms.ContextMenuStrip(this.components);
@@ -129,7 +129,6 @@
             this.buttonStart = new System.Windows.Forms.Button();
             this.groupBoxDefaultGames = new System.Windows.Forms.GroupBox();
             this.checkedListBoxDefaultGames = new System.Windows.Forms.CheckedListBox();
-            this.timerCalculateGames = new System.Windows.Forms.Timer(this.components);
             this.menuStrip.SuspendLayout();
             this.groupBoxOptions.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxArt)).BeginInit();
@@ -140,7 +139,6 @@
             // 
             // menuStrip
             // 
-            this.menuStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.kernelToolStripMenuItem,
@@ -149,6 +147,7 @@
             this.helpToolStripMenuItem});
             resources.ApplyResources(this.menuStrip, "menuStrip");
             this.menuStrip.Name = "menuStrip";
+            this.menuStrip.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip_ItemClicked);
             // 
             // fileToolStripMenuItem
             // 
@@ -614,7 +613,6 @@
             // groupBoxOptions
             // 
             resources.ApplyResources(this.groupBoxOptions, "groupBoxOptions");
-            this.groupBoxOptions.Controls.Add(this.checkBoxRetro);
             this.groupBoxOptions.Controls.Add(this.buttonShowGameGenieDatabase);
             this.groupBoxOptions.Controls.Add(this.maskedTextBoxReleaseDate);
             this.groupBoxOptions.Controls.Add(this.label1);
@@ -637,13 +635,6 @@
             this.groupBoxOptions.Controls.Add(this.labelID);
             this.groupBoxOptions.Name = "groupBoxOptions";
             this.groupBoxOptions.TabStop = false;
-            // 
-            // checkBoxRetro
-            // 
-            resources.ApplyResources(this.checkBoxRetro, "checkBoxRetro");
-            this.checkBoxRetro.Name = "checkBoxRetro";
-            this.checkBoxRetro.UseVisualStyleBackColor = true;
-            this.checkBoxRetro.CheckedChanged += new System.EventHandler(this.checkBoxRetro_CheckedChanged);
             // 
             // buttonShowGameGenieDatabase
             // 
@@ -779,12 +770,17 @@
             // 
             // statusStrip
             // 
-            this.statusStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.statusStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripProgressBar1,
             this.toolStripStatusLabelSelected});
             resources.ApplyResources(this.statusStrip, "statusStrip");
             this.statusStrip.Name = "statusStrip";
             this.statusStrip.SizingGrip = false;
+            // 
+            // toolStripProgressBar1
+            // 
+            this.toolStripProgressBar1.Name = "toolStripProgressBar1";
+            resources.ApplyResources(this.toolStripProgressBar1, "toolStripProgressBar1");
             // 
             // toolStripStatusLabelSelected
             // 
@@ -799,7 +795,6 @@
             // 
             // contextMenuStrip
             // 
-            this.contextMenuStrip.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.contextMenuStrip.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.selectAllToolStripMenuItem,
             this.unselectAllToolStripMenuItem,
@@ -849,12 +844,6 @@
             this.checkedListBoxDefaultGames.FormattingEnabled = true;
             this.checkedListBoxDefaultGames.Name = "checkedListBoxDefaultGames";
             this.checkedListBoxDefaultGames.MouseDown += new System.Windows.Forms.MouseEventHandler(this.checkedListBoxDefaultGames_MouseDown);
-            // 
-            // timerCalculateGames
-            // 
-            this.timerCalculateGames.Enabled = true;
-            this.timerCalculateGames.Interval = 500;
-            this.timerCalculateGames.Tick += new System.EventHandler(this.timerCalculateGames_Tick);
             // 
             // MainForm
             // 
@@ -929,7 +918,6 @@
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.ToolStripMenuItem settingsToolStripMenuItem;
         private System.Windows.Forms.GroupBox groupBoxDefaultGames;
-        private System.Windows.Forms.Timer timerCalculateGames;
         private System.Windows.Forms.ToolStripMenuItem selectAllToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem unselectAllToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem uninstallToolStripMenuItem;
@@ -991,7 +979,7 @@
         private System.Windows.Forms.ToolStripMenuItem uninstallModulesToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem syncronizeToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem useXYOnClassicControllerAsAutofireABToolStripMenuItem;
-        private System.Windows.Forms.CheckBox checkBoxRetro;
+        private System.Windows.Forms.ToolStripProgressBar toolStripProgressBar1;
     }
 }
 

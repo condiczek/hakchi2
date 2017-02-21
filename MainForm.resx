@@ -126,28 +126,28 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="addMoreGamesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>295, 26</value>
+    <value>238, 22</value>
   </data>
   <data name="addMoreGamesToolStripMenuItem.Text" xml:space="preserve">
     <value>Add more &amp;games</value>
   </data>
   <data name="toolStripMenuItem2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 6</value>
+    <value>139, 6</value>
   </data>
   <data name="addPresetToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>173, 26</value>
+    <value>142, 22</value>
   </data>
   <data name="addPresetToolStripMenuItem.Text" xml:space="preserve">
     <value>Add preset</value>
   </data>
   <data name="deletePresetToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>173, 26</value>
+    <value>142, 22</value>
   </data>
   <data name="deletePresetToolStripMenuItem.Text" xml:space="preserve">
     <value>Delete preset</value>
   </data>
   <data name="presetsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>295, 26</value>
+    <value>238, 22</value>
   </data>
   <data name="presetsToolStripMenuItem.Text" xml:space="preserve">
     <value>Selection presets</value>
@@ -156,7 +156,7 @@
     <value>F5</value>
   </data>
   <data name="syncronizeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>295, 26</value>
+    <value>238, 22</value>
   </data>
   <data name="syncronizeToolStripMenuItem.Text" xml:space="preserve">
     <value>Syncronize</value>
@@ -165,163 +165,163 @@
     <value>Ctrl+F</value>
   </data>
   <data name="searchToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>295, 26</value>
+    <value>238, 22</value>
   </data>
   <data name="searchToolStripMenuItem.Text" xml:space="preserve">
     <value>Search</value>
   </data>
   <data name="downloadCoversForAllGamesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>295, 26</value>
+    <value>238, 22</value>
   </data>
   <data name="downloadCoversForAllGamesToolStripMenuItem.Text" xml:space="preserve">
     <value>Download box art for all games</value>
   </data>
   <data name="toolStripMenuItem1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>292, 6</value>
+    <value>235, 6</value>
   </data>
   <data name="exitToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>295, 26</value>
+    <value>238, 22</value>
   </data>
   <data name="exitToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Exit</value>
   </data>
   <data name="fileToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>44, 24</value>
+    <value>37, 20</value>
   </data>
   <data name="fileToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;File</value>
   </data>
   <data name="dumpKernelToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 26</value>
+    <value>179, 22</value>
   </data>
   <data name="dumpKernelToolStripMenuItem.Text" xml:space="preserve">
     <value>Dump kernel</value>
   </data>
   <data name="flashOriginalKernelToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 26</value>
+    <value>179, 22</value>
   </data>
   <data name="flashOriginalKernelToolStripMenuItem.Text" xml:space="preserve">
     <value>Flash original kernel</value>
   </data>
   <data name="flashCustomKernelToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 26</value>
+    <value>179, 22</value>
   </data>
   <data name="flashCustomKernelToolStripMenuItem.Text" xml:space="preserve">
     <value>Flash custom kernel</value>
   </data>
   <data name="uninstallToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>216, 26</value>
+    <value>179, 22</value>
   </data>
   <data name="uninstallToolStripMenuItem.Text" xml:space="preserve">
     <value>Uninstall</value>
   </data>
   <data name="kernelToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>63, 24</value>
+    <value>52, 20</value>
   </data>
   <data name="kernelToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Kernel</value>
   </data>
   <data name="installModulesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>239, 26</value>
+    <value>197, 22</value>
   </data>
   <data name="installModulesToolStripMenuItem.Text" xml:space="preserve">
     <value>Install extra modules</value>
   </data>
   <data name="uninstallModulesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>239, 26</value>
+    <value>197, 22</value>
   </data>
   <data name="uninstallModulesToolStripMenuItem.Text" xml:space="preserve">
     <value>Uninstall extra modules</value>
   </data>
   <data name="modulesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>78, 24</value>
+    <value>65, 20</value>
   </data>
   <data name="modulesToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Modules</value>
   </data>
   <data name="nESMiniToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>178, 26</value>
+    <value>151, 22</value>
   </data>
   <data name="nESMiniToolStripMenuItem.Text" xml:space="preserve">
     <value>NES Mini</value>
   </data>
   <data name="famicomMiniToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>178, 26</value>
+    <value>151, 22</value>
   </data>
   <data name="famicomMiniToolStripMenuItem.Text" xml:space="preserve">
     <value>Famicom Mini</value>
   </data>
   <data name="consoleTypeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>401, 26</value>
+    <value>327, 22</value>
   </data>
   <data name="consoleTypeToolStripMenuItem.Text" xml:space="preserve">
     <value>Console type</value>
   </data>
   <data name="resetUsingCombinationOfButtonsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>377, 26</value>
+    <value>308, 22</value>
   </data>
   <data name="resetUsingCombinationOfButtonsToolStripMenuItem.Text" xml:space="preserve">
     <value>Use button combination to reset</value>
   </data>
   <data name="selectButtonCombinationToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>377, 26</value>
+    <value>308, 22</value>
   </data>
   <data name="selectButtonCombinationToolStripMenuItem.Text" xml:space="preserve">
     <value>Select reset button combination</value>
   </data>
   <data name="enableAutofireToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>377, 26</value>
+    <value>308, 22</value>
   </data>
   <data name="enableAutofireToolStripMenuItem.Text" xml:space="preserve">
     <value>Use "Select+A/B" to enable autofire on A/B </value>
   </data>
   <data name="useXYOnClassicControllerAsAutofireABToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>377, 26</value>
+    <value>308, 22</value>
   </data>
   <data name="useXYOnClassicControllerAsAutofireABToolStripMenuItem.Text" xml:space="preserve">
     <value>Use X/Y on Classic Controller as autofire A/B</value>
   </data>
   <data name="upABStartOnSecondControllerToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>377, 26</value>
+    <value>308, 22</value>
   </data>
   <data name="upABStartOnSecondControllerToolStripMenuItem.Text" xml:space="preserve">
     <value>"Up+A+B = Start" on 2nd controller</value>
   </data>
   <data name="cloverconHackToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>401, 26</value>
+    <value>327, 22</value>
   </data>
   <data name="cloverconHackToolStripMenuItem.Text" xml:space="preserve">
     <value>Controller hacks</value>
   </data>
   <data name="useExtendedFontToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>401, 26</value>
+    <value>327, 22</value>
   </data>
   <data name="useExtendedFontToolStripMenuItem.Text" xml:space="preserve">
     <value>Use extended font</value>
   </data>
   <data name="epilepsyProtectionToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>401, 26</value>
+    <value>327, 22</value>
   </data>
   <data name="epilepsyProtectionToolStripMenuItem.Text" xml:space="preserve">
     <value>Disable epilepsy protection</value>
   </data>
   <data name="disablePagefoldersToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="disablePagefoldersToolStripMenuItem.Text" xml:space="preserve">
     <value>Disable page/folders</value>
   </data>
   <data name="toolStripMenuItem3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>437, 6</value>
+    <value>353, 6</value>
   </data>
   <data name="automaticToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="automaticToolStripMenuItem.Text" xml:space="preserve">
     <value>Automatic</value>
   </data>
   <data name="automaticOriginalToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="automaticOriginalToolStripMenuItem.Text" xml:space="preserve">
     <value>Original games in root -&gt; Automatic in subfolder</value>
@@ -330,7 +330,7 @@
     <value>None</value>
   </data>
   <data name="pagesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="pagesToolStripMenuItem.Text" xml:space="preserve">
     <value>Pages, split games equally</value>
@@ -339,160 +339,160 @@
     <value>None</value>
   </data>
   <data name="pagesOriginalToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="pagesOriginalToolStripMenuItem.Text" xml:space="preserve">
     <value>Original games in root -&gt; Pages, split games equally</value>
   </data>
   <data name="foldersToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="foldersToolStripMenuItem.Text" xml:space="preserve">
     <value>Folders, split games equally</value>
   </data>
   <data name="foldersOriginalToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="foldersOriginalToolStripMenuItem.Text" xml:space="preserve">
     <value>Original games in root -&gt; Folders, split games equally</value>
   </data>
   <data name="foldersSplitByFirstLetterToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="foldersSplitByFirstLetterToolStripMenuItem.Text" xml:space="preserve">
     <value>Folders, split by first letter</value>
   </data>
   <data name="foldersSplitByFirstLetterOriginalToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="foldersSplitByFirstLetterOriginalToolStripMenuItem.Text" xml:space="preserve">
     <value>Original games in root -&gt; Folders, split by first letter</value>
   </data>
   <data name="max20toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max20toolStripMenuItem.Text" xml:space="preserve">
     <value>20</value>
   </data>
   <data name="max25toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max25toolStripMenuItem.Text" xml:space="preserve">
     <value>25</value>
   </data>
   <data name="max30toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max30toolStripMenuItem.Text" xml:space="preserve">
     <value>30</value>
   </data>
   <data name="max35toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max35toolStripMenuItem.Text" xml:space="preserve">
     <value>35</value>
   </data>
   <data name="max40toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max40toolStripMenuItem.Text" xml:space="preserve">
     <value>40</value>
   </data>
   <data name="max45toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max45toolStripMenuItem.Text" xml:space="preserve">
     <value>45</value>
   </data>
   <data name="max50toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max50toolStripMenuItem.Text" xml:space="preserve">
     <value>50</value>
   </data>
   <data name="max60toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max60toolStripMenuItem.Text" xml:space="preserve">
     <value>60</value>
   </data>
   <data name="max70toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max70toolStripMenuItem.Text" xml:space="preserve">
     <value>70</value>
   </data>
   <data name="max80toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max80toolStripMenuItem.Text" xml:space="preserve">
     <value>80</value>
   </data>
   <data name="max90toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max90toolStripMenuItem.Text" xml:space="preserve">
     <value>90</value>
   </data>
   <data name="max100toolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>108, 26</value>
+    <value>92, 22</value>
   </data>
   <data name="max100toolStripMenuItem.Text" xml:space="preserve">
     <value>100</value>
   </data>
   <data name="maximumGamesPerFolderToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="maximumGamesPerFolderToolStripMenuItem.Text" xml:space="preserve">
     <value>Maximum games per page/folder</value>
   </data>
   <data name="toolStripMenuItem4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>437, 6</value>
+    <value>353, 6</value>
   </data>
   <data name="customToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>440, 26</value>
+    <value>356, 22</value>
   </data>
   <data name="customToolStripMenuItem.Text" xml:space="preserve">
     <value>Custom - show Folders Manager every time</value>
   </data>
   <data name="pagesfoldersTypeToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>401, 26</value>
+    <value>327, 22</value>
   </data>
   <data name="pagesfoldersTypeToolStripMenuItem.Text" xml:space="preserve">
     <value>Pages/folders structure</value>
   </data>
   <data name="globalCommandLineArgumentsexpertsOnluToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>401, 26</value>
+    <value>327, 22</value>
   </data>
   <data name="globalCommandLineArgumentsexpertsOnluToolStripMenuItem.Text" xml:space="preserve">
     <value>Global command-line arguments (experts only!)</value>
   </data>
   <data name="settingsToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>74, 24</value>
+    <value>61, 20</value>
   </data>
   <data name="settingsToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Settings</value>
   </data>
   <data name="gitHubPageWithActualReleasesToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 26</value>
+    <value>246, 22</value>
   </data>
   <data name="gitHubPageWithActualReleasesToolStripMenuItem.Text" xml:space="preserve">
     <value>GitHub page with actual releases</value>
   </data>
   <data name="fAQToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 26</value>
+    <value>246, 22</value>
   </data>
   <data name="fAQToolStripMenuItem.Text" xml:space="preserve">
     <value>FAQ</value>
   </data>
   <data name="aboutToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>302, 26</value>
+    <value>246, 22</value>
   </data>
   <data name="aboutToolStripMenuItem.Text" xml:space="preserve">
     <value>About...</value>
   </data>
   <data name="helpToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 24</value>
+    <value>44, 20</value>
   </data>
   <data name="helpToolStripMenuItem.Text" xml:space="preserve">
     <value>&amp;Help</value>
@@ -500,11 +500,8 @@
   <data name="menuStrip.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
-  <data name="menuStrip.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>8, 2, 0, 2</value>
-  </data>
   <data name="menuStrip.Size" type="System.Drawing.Size, System.Drawing">
-    <value>809, 28</value>
+    <value>609, 24</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="menuStrip.TabIndex" type="System.Int32, mscorlib">
@@ -529,13 +526,10 @@
     <value>None</value>
   </data>
   <data name="checkedListBoxGames.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 70</value>
-  </data>
-  <data name="checkedListBoxGames.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>12, 57</value>
   </data>
   <data name="checkedListBoxGames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>375, 599</value>
+    <value>282, 499</value>
   </data>
   <data name="checkedListBoxGames.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -555,41 +549,11 @@
   <data name="groupBoxOptions.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>None</value>
   </data>
-  <data name="checkBoxRetro.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="checkBoxRetro.Location" type="System.Drawing.Point, System.Drawing">
-    <value>25, 257</value>
-  </data>
-  <data name="checkBoxRetro.Size" type="System.Drawing.Size, System.Drawing">
-    <value>348, 21</value>
-  </data>
-  <data name="checkBoxRetro.TabIndex" type="System.Int32, mscorlib">
-    <value>18</value>
-  </data>
-  <data name="checkBoxRetro.Text" xml:space="preserve">
-    <value>Execute with RetroArch instead of default emulator</value>
-  </data>
-  <data name="&gt;&gt;checkBoxRetro.Name" xml:space="preserve">
-    <value>checkBoxRetro</value>
-  </data>
-  <data name="&gt;&gt;checkBoxRetro.Type" xml:space="preserve">
-    <value>System.Windows.Forms.CheckBox, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;checkBoxRetro.Parent" xml:space="preserve">
-    <value>groupBoxOptions</value>
-  </data>
-  <data name="&gt;&gt;checkBoxRetro.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
   <data name="buttonShowGameGenieDatabase.Location" type="System.Drawing.Point, System.Drawing">
-    <value>336, 355</value>
-  </data>
-  <data name="buttonShowGameGenieDatabase.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>252, 286</value>
   </data>
   <data name="buttonShowGameGenieDatabase.Size" type="System.Drawing.Size, System.Drawing">
-    <value>33, 25</value>
+    <value>25, 20</value>
   </data>
   <data name="buttonShowGameGenieDatabase.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -607,19 +571,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;buttonShowGameGenieDatabase.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>0</value>
   </data>
   <data name="maskedTextBoxReleaseDate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>224, 190</value>
-  </data>
-  <data name="maskedTextBoxReleaseDate.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>168, 154</value>
   </data>
   <data name="maskedTextBoxReleaseDate.Mask" xml:space="preserve">
     <value>0000-00-00</value>
   </data>
   <data name="maskedTextBoxReleaseDate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>85, 22</value>
+    <value>65, 20</value>
   </data>
   <data name="maskedTextBoxReleaseDate.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -634,19 +595,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;maskedTextBoxReleaseDate.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>1</value>
   </data>
   <data name="label1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="label1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 193</value>
-  </data>
-  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>15, 157</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>198, 17</value>
+    <value>150, 13</value>
   </data>
   <data name="label1.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -664,16 +622,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="textBoxGameGenie.Location" type="System.Drawing.Point, System.Drawing">
-    <value>25, 359</value>
-  </data>
-  <data name="textBoxGameGenie.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>19, 286</value>
   </data>
   <data name="textBoxGameGenie.Size" type="System.Drawing.Size, System.Drawing">
-    <value>301, 22</value>
+    <value>227, 20</value>
   </data>
   <data name="textBoxGameGenie.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -688,7 +643,7 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;textBoxGameGenie.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <data name="label7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -697,13 +652,10 @@
     <value>NoControl</value>
   </data>
   <data name="label7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>21, 338</value>
-  </data>
-  <data name="label7.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>16, 269</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>261, 17</value>
+    <value>194, 13</value>
   </data>
   <data name="label7.TabIndex" type="System.Int32, mscorlib">
     <value>17</value>
@@ -721,19 +673,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;label7.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>4</value>
   </data>
   <data name="label6.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="label6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 124</value>
-  </data>
-  <data name="label6.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>15, 101</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>87, 17</value>
+    <value>66, 13</value>
   </data>
   <data name="label6.TabIndex" type="System.Int32, mscorlib">
     <value>16</value>
@@ -751,7 +700,7 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>5</value>
   </data>
   <data name="radioButtonTwoSim.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -760,13 +709,10 @@
     <value>NoControl</value>
   </data>
   <data name="radioButtonTwoSim.Location" type="System.Drawing.Point, System.Drawing">
-    <value>137, 150</value>
-  </data>
-  <data name="radioButtonTwoSim.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>103, 122</value>
   </data>
   <data name="radioButtonTwoSim.Size" type="System.Drawing.Size, System.Drawing">
-    <value>206, 21</value>
+    <value>156, 17</value>
   </data>
   <data name="radioButtonTwoSim.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -784,16 +730,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;radioButtonTwoSim.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
   </data>
   <data name="buttonGoogle.Location" type="System.Drawing.Point, System.Drawing">
-    <value>292, 526</value>
-  </data>
-  <data name="buttonGoogle.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>219, 427</value>
   </data>
   <data name="buttonGoogle.Size" type="System.Drawing.Size, System.Drawing">
-    <value>81, 28</value>
+    <value>61, 23</value>
   </data>
   <data name="buttonGoogle.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
@@ -811,16 +754,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;buttonGoogle.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <data name="buttonBrowseImage.Location" type="System.Drawing.Point, System.Drawing">
-    <value>292, 473</value>
-  </data>
-  <data name="buttonBrowseImage.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>219, 384</value>
   </data>
   <data name="buttonBrowseImage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>81, 28</value>
+    <value>61, 23</value>
   </data>
   <data name="buttonBrowseImage.TabIndex" type="System.Int32, mscorlib">
     <value>13</value>
@@ -838,16 +778,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;buttonBrowseImage.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>8</value>
   </data>
   <data name="pictureBoxArt.Location" type="System.Drawing.Point, System.Drawing">
-    <value>95, 389</value>
-  </data>
-  <data name="pictureBoxArt.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>71, 316</value>
   </data>
   <data name="pictureBoxArt.Size" type="System.Drawing.Size, System.Drawing">
-    <value>187, 251</value>
+    <value>140, 204</value>
   </data>
   <data name="pictureBoxArt.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
     <value>Zoom</value>
@@ -865,19 +802,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;pictureBoxArt.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>9</value>
   </data>
   <data name="label4.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="label4.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 503</value>
-  </data>
-  <data name="label4.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>15, 409</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>56, 17</value>
+    <value>43, 13</value>
   </data>
   <data name="label4.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
@@ -895,16 +829,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;label4.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>10</value>
   </data>
   <data name="textBoxArguments.Location" type="System.Drawing.Point, System.Drawing">
-    <value>24, 308</value>
-  </data>
-  <data name="textBoxArguments.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>18, 237</value>
   </data>
   <data name="textBoxArguments.Size" type="System.Drawing.Size, System.Drawing">
-    <value>341, 22</value>
+    <value>257, 20</value>
   </data>
   <data name="textBoxArguments.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
@@ -919,19 +850,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;textBoxArguments.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>11</value>
   </data>
   <data name="label3.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="label3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 287</value>
-  </data>
-  <data name="label3.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>15, 220</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>341, 17</value>
+    <value>253, 13</value>
   </data>
   <data name="label3.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
@@ -949,16 +877,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;label3.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>12</value>
   </data>
   <data name="textBoxPublisher.Location" type="System.Drawing.Point, System.Drawing">
-    <value>103, 220</value>
-  </data>
-  <data name="textBoxPublisher.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>77, 186</value>
   </data>
   <data name="textBoxPublisher.Size" type="System.Drawing.Size, System.Drawing">
-    <value>263, 22</value>
+    <value>198, 20</value>
   </data>
   <data name="textBoxPublisher.TabIndex" type="System.Int32, mscorlib">
     <value>8</value>
@@ -973,19 +898,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;textBoxPublisher.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>13</value>
   </data>
   <data name="label2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 223</value>
-  </data>
-  <data name="label2.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>15, 189</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>71, 17</value>
+    <value>53, 13</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -1003,19 +925,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>14</value>
   </data>
   <data name="radioButtonTwo.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="radioButtonTwo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>137, 122</value>
-  </data>
-  <data name="radioButtonTwo.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>103, 99</value>
   </data>
   <data name="radioButtonTwo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>230, 21</value>
+    <value>174, 17</value>
   </data>
   <data name="radioButtonTwo.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1033,19 +952,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;radioButtonTwo.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>15</value>
   </data>
   <data name="radioButtonOne.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="radioButtonOne.Location" type="System.Drawing.Point, System.Drawing">
-    <value>137, 94</value>
-  </data>
-  <data name="radioButtonOne.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>103, 76</value>
   </data>
   <data name="radioButtonOne.Size" type="System.Drawing.Size, System.Drawing">
-    <value>99, 21</value>
+    <value>76, 17</value>
   </data>
   <data name="radioButtonOne.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1063,16 +979,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;radioButtonOne.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>16</value>
   </data>
   <data name="textBoxName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>79, 57</value>
-  </data>
-  <data name="textBoxName.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>59, 46</value>
   </data>
   <data name="textBoxName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>287, 22</value>
+    <value>216, 20</value>
   </data>
   <data name="textBoxName.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -1087,19 +1000,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;textBoxName.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>17</value>
   </data>
   <data name="labelName.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="labelName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 60</value>
-  </data>
-  <data name="labelName.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>15, 49</value>
   </data>
   <data name="labelName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 17</value>
+    <value>38, 13</value>
   </data>
   <data name="labelName.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -1117,19 +1027,16 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;labelName.ZOrder" xml:space="preserve">
-    <value>19</value>
+    <value>18</value>
   </data>
   <data name="labelID.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="labelID.Location" type="System.Drawing.Point, System.Drawing">
-    <value>20, 26</value>
-  </data>
-  <data name="labelID.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>15, 21</value>
   </data>
   <data name="labelID.Size" type="System.Drawing.Size, System.Drawing">
-    <value>25, 17</value>
+    <value>21, 13</value>
   </data>
   <data name="labelID.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -1147,19 +1054,13 @@
     <value>groupBoxOptions</value>
   </data>
   <data name="&gt;&gt;labelID.ZOrder" xml:space="preserve">
-    <value>20</value>
+    <value>19</value>
   </data>
   <data name="groupBoxOptions.Location" type="System.Drawing.Point, System.Drawing">
-    <value>408, 33</value>
-  </data>
-  <data name="groupBoxOptions.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="groupBoxOptions.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>306, 27</value>
   </data>
   <data name="groupBoxOptions.Size" type="System.Drawing.Size, System.Drawing">
-    <value>391, 651</value>
+    <value>293, 529</value>
   </data>
   <data name="groupBoxOptions.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1186,13 +1087,10 @@
     <value>True</value>
   </data>
   <data name="label5.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 41</value>
-  </data>
-  <data name="label5.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 0, 4, 0</value>
+    <value>12, 33</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>97, 17</value>
+    <value>74, 13</value>
   </data>
   <data name="label5.TabIndex" type="System.Int32, mscorlib">
     <value>4</value>
@@ -1216,13 +1114,10 @@
     <value>None</value>
   </data>
   <data name="buttonAddGames.Location" type="System.Drawing.Point, System.Drawing">
-    <value>16, 699</value>
-  </data>
-  <data name="buttonAddGames.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>12, 568</value>
   </data>
   <data name="buttonAddGames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>376, 47</value>
+    <value>282, 38</value>
   </data>
   <data name="buttonAddGames.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
@@ -1245,20 +1140,20 @@
   <metadata name="statusStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>350, 17</value>
   </metadata>
+  <data name="toolStripProgressBar1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 16</value>
+  </data>
   <data name="toolStripStatusLabelSelected.Size" type="System.Drawing.Size, System.Drawing">
-    <value>151, 20</value>
+    <value>118, 17</value>
   </data>
   <data name="toolStripStatusLabelSelected.Text" xml:space="preserve">
     <value>toolStripStatusLabel1</value>
   </data>
   <data name="statusStrip.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 748</value>
-  </data>
-  <data name="statusStrip.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>1, 0, 19, 0</value>
+    <value>0, 614</value>
   </data>
   <data name="statusStrip.Size" type="System.Drawing.Size, System.Drawing">
-    <value>809, 25</value>
+    <value>609, 22</value>
   </data>
   <data name="statusStrip.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1282,34 +1177,34 @@
     <value>459, 17</value>
   </metadata>
   <data name="openFileDialogNes.Filter" xml:space="preserve">
-    <value>All supported ROM files|*.nes;*.fds;*.desktop;*.zip;*.7zip;*.rar;*.snes;*.smc;*.srm;*.swc;*.fig;*.gb;*.gba;*.gbc;*.gen;*.sms;*.smd;*.n64;*.z64;*.v64;*.rom|NES files|*.nes;*.fds;*.desktop;*.zip;*.7zip;*.rar|SNES files|*.snes;*.smc;*.srm;*.swc;*.fig;*.desktop;*.zip;*.7zip;*.rar|Gameboy files|*.gb;*.gba;*.gbc;*.desktop;*.zip;*.7zip;*.rar|Genesis/SMS/MD files|*.gen;*.sms;*.smd;*.desktop;*.zip;*.7z;*.rar|Nintendo 64 files|*.n64;*.z64;*.v64;*.rom;*.desktop;*.zip;*.7zip;*.rar|All files|*.*</value>
+    <value>NES files and applications|*.nes;*.fds;*.desktop;*.zip;*.7z;*.rar|All files|*.*</value>
   </data>
   <data name="openFileDialogNes.Title" xml:space="preserve">
-    <value>Select file(s)</value>
+    <value>Select NES file(s)</value>
   </data>
   <metadata name="contextMenuStrip.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>592, 17</value>
   </metadata>
   <data name="selectAllToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 26</value>
+    <value>140, 22</value>
   </data>
   <data name="selectAllToolStripMenuItem.Text" xml:space="preserve">
     <value>Select all</value>
   </data>
   <data name="unselectAllToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 26</value>
+    <value>140, 22</value>
   </data>
   <data name="unselectAllToolStripMenuItem.Text" xml:space="preserve">
     <value>Unselect all</value>
   </data>
   <data name="deleteGameToolStripMenuItem.Size" type="System.Drawing.Size, System.Drawing">
-    <value>170, 26</value>
+    <value>140, 22</value>
   </data>
   <data name="deleteGameToolStripMenuItem.Text" xml:space="preserve">
     <value>Delete game</value>
   </data>
   <data name="contextMenuStrip.Size" type="System.Drawing.Size, System.Drawing">
-    <value>171, 82</value>
+    <value>141, 70</value>
   </data>
   <data name="&gt;&gt;contextMenuStrip.Name" xml:space="preserve">
     <value>contextMenuStrip</value>
@@ -1330,13 +1225,10 @@
     <value>None</value>
   </data>
   <data name="buttonStart.Location" type="System.Drawing.Point, System.Drawing">
-    <value>408, 699</value>
-  </data>
-  <data name="buttonStart.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>306, 568</value>
   </data>
   <data name="buttonStart.Size" type="System.Drawing.Size, System.Drawing">
-    <value>391, 47</value>
+    <value>293, 38</value>
   </data>
   <data name="buttonStart.TabIndex" type="System.Int32, mscorlib">
     <value>6</value>
@@ -1363,13 +1255,10 @@
     <value>Top, Bottom, Left, Right</value>
   </data>
   <data name="checkedListBoxDefaultGames.Location" type="System.Drawing.Point, System.Drawing">
-    <value>7, 60</value>
-  </data>
-  <data name="checkedListBoxDefaultGames.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>5, 49</value>
   </data>
   <data name="checkedListBoxDefaultGames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>375, 548</value>
+    <value>282, 454</value>
   </data>
   <data name="checkedListBoxDefaultGames.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1387,16 +1276,10 @@
     <value>0</value>
   </data>
   <data name="groupBoxDefaultGames.Location" type="System.Drawing.Point, System.Drawing">
-    <value>408, 33</value>
-  </data>
-  <data name="groupBoxDefaultGames.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
-  <data name="groupBoxDefaultGames.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>306, 27</value>
   </data>
   <data name="groupBoxDefaultGames.Size" type="System.Drawing.Size, System.Drawing">
-    <value>391, 651</value>
+    <value>293, 529</value>
   </data>
   <data name="groupBoxDefaultGames.TabIndex" type="System.Int32, mscorlib">
     <value>3</value>
@@ -1419,9 +1302,6 @@
   <data name="&gt;&gt;groupBoxDefaultGames.ZOrder" xml:space="preserve">
     <value>8</value>
   </data>
-  <metadata name="timerCalculateGames.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>620, 18</value>
-  </metadata>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -1429,10 +1309,10 @@
     <value>True</value>
   </metadata>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 16</value>
+    <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>809, 773</value>
+    <value>609, 636</value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -2566,14 +2446,11 @@
         //////////////////////////////////8=
 </value>
   </data>
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
   <data name="$this.MaximumSize" type="System.Drawing.Size, System.Drawing">
-    <value>827, 820</value>
+    <value>625, 675</value>
   </data>
   <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>827, 820</value>
+    <value>625, 675</value>
   </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
@@ -2953,6 +2830,12 @@
   <data name="&gt;&gt;aboutToolStripMenuItem.Type" xml:space="preserve">
     <value>System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="&gt;&gt;toolStripProgressBar1.Name" xml:space="preserve">
+    <value>toolStripProgressBar1</value>
+  </data>
+  <data name="&gt;&gt;toolStripProgressBar1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ToolStripProgressBar, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
   <data name="&gt;&gt;toolStripStatusLabelSelected.Name" xml:space="preserve">
     <value>toolStripStatusLabelSelected</value>
   </data>
@@ -2988,12 +2871,6 @@
   </data>
   <data name="&gt;&gt;openFileDialogImage.Type" xml:space="preserve">
     <value>System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;timerCalculateGames.Name" xml:space="preserve">
-    <value>timerCalculateGames</value>
-  </data>
-  <data name="&gt;&gt;timerCalculateGames.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Timer, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>MainForm</value>
